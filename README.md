@@ -1,4 +1,4 @@
-L4D2 SMPlugin.　! need L4DHookDirect.<br>
+L4D2 SMPlugin.　Request: <a href="https://forums.alliedmods.net/showthread.php?t=321696">L4DHookDirect</a><br>
 -add Tanks.<br>
 -Cvar & cfg file.<br>
 <br>
