@@ -5,7 +5,7 @@ DL: <a href="https://github.com/coahte3/L4D2SM-MoreTanks_4.1.smx/releases/downlo
 <br>
 Cvar:<br>
 　MoreTanks_Enable "1"<br>
-　MoreTanks_Value "2"
-　MoreTanks_TankLimit "10" //delete Value or higher
-　MoreTanks_HealthEnable "1" 
-　MoreTanks_Health "500"    //survivor x value
+　MoreTanks_Value "2"<br>
+　MoreTanks_TankLimit "10" //delete Value or higher<br>
+　MoreTanks_HealthEnable "1" <br>
+　MoreTanks_Health "500"    //survivor x value<br>
